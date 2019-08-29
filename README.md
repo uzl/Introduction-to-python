@@ -16,9 +16,11 @@
 - [Exception](Exception.ipynb)
 
 <hr>
+
 ### OOP 
 
 <hr>
+
 ### Tips 
 
 - [Tips 1](tips.ipynb)
