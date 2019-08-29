@@ -20,4 +20,5 @@
 
 <hr>
 ### Tips 
-[Tips 1](tips.ipynb)
+
+- [Tips 1](tips.ipynb)
